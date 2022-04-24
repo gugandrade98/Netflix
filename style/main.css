@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
 :root {
   --black:#141414;
   --red:#e50914;
@@ -32,8 +34,8 @@ header .logo {
 
 header nav a {
   color: #aaa;
-  font-family: Arial;
-  font-size: 15px;
+  font-family: 'Roboto', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 16px;
   margin-right: 20px;
   margin-left: 10px;
   text-decoration: none;
