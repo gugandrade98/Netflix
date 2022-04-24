@@ -107,8 +107,10 @@ header nav a:hover {
   height: auto;
   width: auto;
   display: block;
+  border-radius: 5px;
 }
 
 .movies-carousel{
-  margin-top: 10px;
+  margin-top: 7px;
+  
 }
